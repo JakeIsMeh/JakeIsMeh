@@ -1,13 +1,5 @@
-### jake | bumbling around
+### jake
 
-[gitlab](https://gitlab.com/JakeIsMeh) (preferred)
+**[ [website](https://jakeismeh.github.io) | [gitlab](https://gitlab.com/JakeIsMeh) ]**
 
-langs:
-- c
-- go
-- py(3)
-  - flask
-- sh
-  - posix
-  - bash
-- html/css/js
+pfp: [Jiji Neko Kurashi](https://anilist.co/manga/122789/Jiji-Neko-Kurashi/)
